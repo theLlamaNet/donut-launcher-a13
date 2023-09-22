@@ -5,8 +5,5 @@
 Android 1.6 launcher for new devices.
 Based on AOSP Launcher
 
-+	Kotlin
-+	Target SDK 30
-+	Translucent status bar
-+	To compile on Android Studio use Java 11
++	Compiled on Android Studio, Java 11
 +	To get Android 13 version on telegram: @Joshhyuy
