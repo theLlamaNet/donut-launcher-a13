@@ -1,6 +1,6 @@
 # Donut launcher
 
-<a href="https://ibb.co/1JrmZHJ"><img src="https://i.ibb.co/3YpC1tY/Screenshot-20230921-164554-Home.png" alt="Screenshot-20230921-164554-Home" border="0"></a>
+<a href="https://ibb.co/Rg7DPqd"><img src="https://i.ibb.co/ZfNMK07/Home-Screen-V2.png" alt="Home-Screen-V2" border="0"></a>
 
 Android 1.6 launcher for new devices.
 Based on AOSP Launcher
