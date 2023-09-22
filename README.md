@@ -1,4 +1,4 @@
-# Donut launcher
+# Donut launcher 13
 
 <a href="https://ibb.co/Rg7DPqd"><img src="https://i.ibb.co/ZfNMK07/Home-Screen-V2.png" alt="Home-Screen-V2" border="0"></a>
 
@@ -9,3 +9,4 @@ Based on AOSP Launcher
 +	Target SDK 30
 +	Translucent status bar
 +	To compile on Android Studio use Java 11
++	To get Android 13 version on telegram: @Joshhyuy
