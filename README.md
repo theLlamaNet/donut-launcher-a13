@@ -5,5 +5,4 @@
 Android 1.6 launcher for new devices.
 Based on AOSP Launcher
 
-+	Compiled on Android Studio, Java 11
-+	To get Android 13 version on telegram: @Joshhyuy
++	Compiled on Android Studio
